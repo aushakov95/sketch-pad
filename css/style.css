@@ -1,0 +1,13 @@
+#container {
+    margin: 30px auto;
+}
+
+div div{
+    width: 16px;
+    height: 16px;
+    background-color: blue;
+    display: inline-block;
+    float: left;
+    margin-left: 1px;
+    margin-right: 1px;
+}
